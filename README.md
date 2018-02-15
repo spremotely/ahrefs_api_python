@@ -2,6 +2,11 @@
 
 This is the python library for using ahrefs.com API
 
+## Install:
+```
+pip install ahrefs_api_python
+```
+
 ## Usage example:
 
 ```
