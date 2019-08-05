@@ -1,13 +1,13 @@
 from setuptools import setup
 
 setup(
-    name='ahrefs-api-python',
-    packages=['ahrefs-api-python'],
+    name='ahrefs_api_python',
+    packages=['ahrefs_api_python'],
     version='0.0.1',
     description='This is the python library for using ahrefs.com API',
     author='sp.remotely',
     author_email='dev.sergey.popov@gmail.com',
-    url='https://github.com/spremotely/ahrefs-api-python',
+    url='https://github.com/spremotely/ahrefs_api_python',
     classifiers=[
         'Development Status :: 1 - Planning',
         'Environment :: Console',
